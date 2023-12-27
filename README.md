@@ -1,4 +1,4 @@
-Hi 👋 My name is Thamilselvan.N
+Hi 👋 My name is Thamil selvan
 ===============================
 
 Student Developer
