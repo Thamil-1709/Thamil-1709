@@ -4,12 +4,12 @@ Hi 👋 My name is Thamil selvan
 Robotics Enthusiast 
 -----------------
 
-You can find me in working all kind of emerging technology such as Machine Learning , Large Language Model API's ,Computer Vision for Robotics , Web Development, 3D modeling and IOT  
+You can find me in working with all kind of emerging technology such as Machine Learning , Large Language Model API's ,Computer Vision for Robotics , Web Development, 3D modeling and IOT  
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm from India
 * ✉️  You can contact me at [tamilselvan1709@gmail.com](mailto:tamilselvan1709@gmail.com)
-* 🧠  I'm learning ROS,Tensorflow,pytorch,ReactJS and VueJS
-* ⚡  I'm Currently Exploring The Technologies
+* 🧠  I'm learning ROS,AI,ReactJS and VueJS
+* ⚡  I'm Currently Exploring Computer Vision 
 
 ### Skills
 
