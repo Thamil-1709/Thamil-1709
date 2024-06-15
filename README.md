@@ -9,7 +9,7 @@ You can find me in working with all kind of emerging technology such as Machine 
 * 🌍  I'm from India
 * ✉️  You can contact me at [tamilselvan1709@gmail.com](mailto:tamilselvan1709@gmail.com)
 * 🧠  I'm learning ROS,AI,ReactJS and VueJS
-* ⚡  I'm Currently Exploring Computer Vision 
+* ⚡  I'm Currently Exploring Computer Vision And Robotics 
 
 ### Skills
 
