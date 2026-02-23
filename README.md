@@ -4,7 +4,7 @@ Hi 👋 My name is Thamil selvan
 Robotics Enthusiast 
 -----------------
 
-You can find me in working with all kind of emerging technology such as Machine Learning , Large Language Model API's ,Computer Vision for Robotics , Web Development, 3D modeling and IOT  
+You can find me in working with all kind of emerging technology such as Machine Learning , Large Language Model  ,Computer Vision for Robotics , Web Development, 3D modeling and IOT  
 
 * 🌍  I'm from India
 * ✉️  You can contact me at [tamilselvan1709@gmail.com](mailto:tamilselvan1709@gmail.com)
